@@ -4,17 +4,17 @@ A modern, responsive queue management system built with React that allows custom
 
 ## Features
 
-### 👤 Customer Features
+###  Customer Features
 - Get digital tickets with unique numbers
 - Track real-time queue position
 - Clean, intuitive interface
 
-### 👨‍💼 Staff Features  
+### Staff Features  
 - View current queue status
 - Serve next customer with one click
 - Add test customers for demonstration
 
-### 🎨 UI/UX Features
+###  UI/UX Features
 - Dark/Light mode toggle
 - Responsive design for all devices
 - Professional styling with smooth animations
